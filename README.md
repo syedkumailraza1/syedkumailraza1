@@ -1,4 +1,4 @@
-# Welcome to Syed Kumail Raza's GitHub Profile! 👋
+#  Syed Kumail Raza 
 
 Hello there! I'm Syed Kumail Raza, a passionate Flutter app developer currently pursuing my Bachelor's in Computer Applications (BCA). I have a keen interest in exploring new technologies and love creating innovative projects that push the boundaries of what's possible.
 
